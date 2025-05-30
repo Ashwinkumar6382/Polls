@@ -121,9 +121,13 @@ urlpatterns = [
 ```
 
 ## OUTPUT
+![Screenshot 2025-05-30 125900](https://github.com/user-attachments/assets/ce0b8ddb-6018-434a-8375-816aba03e07c)
+
 
 
 ## COURSERA GRADE
+![Screenshot 2025-05-30 125911](https://github.com/user-attachments/assets/ad198dbb-7d95-4aa8-bb77-216c2a06d92a)
+
 
 
 
